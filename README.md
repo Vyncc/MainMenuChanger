@@ -4,7 +4,7 @@ Main menu changer is a bakkesmod plugin that allows you to vhange the location o
 
 You can create presets, save, and load them.
 
-# Imprtant Note
+# Important Note
 
 The plugin isn't fully tested, I don't really know if the plugin is 100% working but I tested changing the car's and camera's location and it was working well, not sure abbout the presets feature.
 

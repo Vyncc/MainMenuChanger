@@ -8,4 +8,4 @@ You can create presets, save, and load them.
 
 The plugin isn't fully tested, I don't really know if the plugin is 100% working but I tested changing the car's and camera's location and it was working well, not sure abbout the presets feature.
 
-It's an old project that I totally forgot about and that I've never published on bakkesplugins.com, so I don't recommand you to use it.
+It's an old project that I totally forgot about and that I've never published on bakkesplugins.com, so I don't recommand you to use it since it could have bugs.

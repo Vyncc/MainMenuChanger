@@ -1,6 +1,6 @@
 # Main Menu Changer
 
-Main menu changer is a bakkesmod plugin that allows you to vhange the location of the car and the camera in the main menu.
+Main menu changer is a bakkesmod plugin that allows you to change the location of the car and the camera in the main menu.
 
 You can create presets, save, and load them.
 

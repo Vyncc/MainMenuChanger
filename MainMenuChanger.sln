@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainMenuChanger", "MainMenuChanger\MainMenuChanger.vcxproj", "{E216CD45-ECD7-4EBC-A4CC-07B5F1B6DE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E216CD45-ECD7-4EBC-A4CC-07B5F1B6DE76}.Release|x64.ActiveCfg = Release|x64
+		{E216CD45-ECD7-4EBC-A4CC-07B5F1B6DE76}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13151BCA-834A-4221-BE7A-CCAEFC6E75E4}
+	EndGlobalSection
+EndGlobal
